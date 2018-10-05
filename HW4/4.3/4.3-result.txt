@@ -1,0 +1,72 @@
+
+START=0
+END=1: No Access
+END=2: Long=0.26  Short=0.26
+END=3: No Access
+END=4: No Access
+END=5: No Access
+END=6: No Access
+END=7: No Access
+
+START=1
+END=0: Long=2.12  Short=1.39
+END=2: Long=2.45  Short=1.02
+END=3: Long=0.29  Short=0.29
+END=4: Long=1.74  Short=1.74
+END=5: No Access
+END=6: Long=0.81  Short=0.81
+END=7: Long=2.11  Short=0.68
+
+START=2
+END=0: No Access
+END=1: No Access
+END=3: No Access
+END=4: No Access
+END=5: No Access
+END=6: No Access
+END=7: No Access
+
+START=3
+END=0: Long=1.83  Short=1.10
+END=1: No Access
+END=2: Long=2.16  Short=0.73
+END=4: Long=1.45  Short=1.45
+END=5: No Access
+END=6: Long=0.52  Short=0.52
+END=7: Long=1.82  Short=0.39
+
+START=4
+END=0: Long=0.38  Short=0.38
+END=1: No Access
+END=2: Long=0.71  Short=0.64
+END=3: No Access
+END=5: No Access
+END=6: No Access
+END=7: Long=0.37  Short=0.37
+
+START=5
+END=0: Long=2.44  Short=0.73
+END=1: Long=0.32  Short=0.32
+END=2: Long=2.77  Short=0.62
+END=3: Long=0.61  Short=0.61
+END=4: Long=2.06  Short=0.35
+END=6: Long=1.13  Short=1.13
+END=7: Long=2.43  Short=0.28
+
+START=6
+END=0: Long=1.31  Short=0.58
+END=1: No Access
+END=2: Long=1.64  Short=0.40
+END=3: No Access
+END=4: Long=0.93  Short=0.93
+END=5: No Access
+END=7: Long=1.30  Short=1.30
+
+START=7
+END=0: No Access
+END=1: No Access
+END=2: Long=0.34  Short=0.34
+END=3: No Access
+END=4: No Access
+END=5: No Access
+END=6: No Access

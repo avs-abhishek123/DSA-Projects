@@ -1,0 +1,50 @@
+START= 0
+END=1     END=2     END=3     END=4     END=5     END=6     END=7     
+NoAccess  0.26      NoAccess  0.38      NoAccess  NoAccess  NoAccess  
+1.05      0.26      0.99      0.38      0.73      1.51      0.60      
+0.93      0.26      0.99      0.26      0.61      1.51      0.60      
+0.93      0.26      0.99      0.26      0.61      1.51      0.60      
+
+START= 1
+END=0     END=2     END=3     END=4     END=5     END=6     END=7     
+NoAccess  -0.39     0.29      NoAccess  NoAccess  0.81      NoAccess  
+-0.59     -0.39     0.29      -0.44     -0.09     0.81      -0.05     
+-0.59     -0.39     0.29      -0.44     -0.09     0.81      -0.05     
+
+START= 2
+END=0     END=1     END=3     END=4     END=5     END=6     END=7     
+NoAccess  0.94      0.73      NoAccess  0.62      1.25      0.34      
+-0.15     0.67      0.73      0.00      0.35      1.25      0.34      
+-0.15     0.67      0.73      0.00      0.35      1.25      0.34      
+
+START= 3
+END=0     END=1     END=2     END=4     END=5     END=6     END=7     
+NoAccess  NoAccess  -0.68     NoAccess  NoAccess  0.52      NoAccess  
+-0.88     -0.06     -0.68     -0.73     -0.38     0.52      -0.34     
+-0.88     -0.06     -0.68     -0.73     -0.38     0.52      -0.34     
+
+START= 4
+END=0     END=1     END=2     END=3     END=5     END=6     END=7     
+NoAccess  0.67      NoAccess  NoAccess  0.35      NoAccess  0.63      
+NoAccess  0.67      0.28      0.96      0.35      1.48      0.63      
+0.08      0.67      0.28      0.96      0.35      1.48      0.62      
+0.08      0.67      0.28      0.96      0.35      1.48      0.62      
+
+START= 5
+END=0     END=1     END=2     END=3     END=4     END=6     END=7     
+NoAccess  0.32      NoAccess  NoAccess  0.35      NoAccess  0.28      
+NoAccess  0.32      -0.07     0.61      0.35      1.13      0.28      
+-0.27     0.32      -0.07     0.61      -0.12     1.13      0.27      
+-0.27     0.32      -0.07     0.61      -0.12     1.13      0.27      
+
+START= 6
+END=0     END=1     END=2     END=3     END=4     END=5     END=7     
+-1.40     -0.58     -1.20     NoAccess  -1.25     -0.90     -0.62     
+-1.40     -0.58     -1.20     -0.47     -1.25     -0.90     -0.86     
+-1.40     -0.58     -1.20     -0.47     -1.25     -0.90     -0.86     
+
+START= 7
+END=0     END=1     END=2     END=3     END=4     END=5     END=6     
+NoAccess  0.60      -0.29     0.39      NoAccess  0.28      0.91      
+-0.49     0.33      -0.29     0.39      -0.34     0.01      0.91      
+-0.49     0.33      -0.29     0.39      -0.34     0.01      0.91
